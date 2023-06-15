@@ -6,7 +6,7 @@ This is a RESTful API for managing job listings. It allows users to register, lo
 
 ## Live Demo
 
-  link : <https://jobs-api-vercel-f1wsdexhy-alpha951.vercel.app/>
+  link : <https://jobs-api-vercel.vercel.app/>
 
 ## Setup
 
