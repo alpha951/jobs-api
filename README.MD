@@ -2,6 +2,9 @@
 
 This is a RESTful API for managing job listings. It allows users to register, login, and perform CRUD (Create, Read, Update, Delete) operations on job resources.
 
+# Live Demo
+  link : <https://jobs-api-vercel-f1wsdexhy-alpha951.vercel.app/>
+  
 # Setup
 
 To set up the project, follow these steps:
